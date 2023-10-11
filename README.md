@@ -2,3 +2,22 @@
 👋, Hello, I am Shubham Rathod
 
 QA Automation Engineer (SDET)
+
+🔭 I’m currently working on API Automation  Course
+
+🌱 I’m currently learning Karate API Automation, Cypress
+
+👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
+
+👨‍💻 All of my projects are available at https://github.com/shubhamrathod27
+
+📝 I regularly write articles on https://scrolltest.com/
+
+💬 Ask me about Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling
+
+📫 How to reach me contact@thetestingacademy.com
+
+📄 Know about my experiences http://linkedin.com/in/shubhamrathod
+
+Connect with me:
+shubhamkkrrthd@gmail.com
